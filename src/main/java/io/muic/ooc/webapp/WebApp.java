@@ -17,7 +17,7 @@ public class WebApp {
 
         String docBase = "src/main/webapp/";
         Tomcat tomcat = new Tomcat();
-        tomcat.setPort(80);
+        tomcat.setPort(8080);
 
 
 //        Context ctx = tomcat.addContext("/", new File(".").getAbsolutePath());
