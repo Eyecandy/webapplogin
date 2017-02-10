@@ -106,7 +106,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>io.muic.ooc.webapp</mainClass>
+                            <mainClass>io.muic.ooc.webapp.WebApp</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
